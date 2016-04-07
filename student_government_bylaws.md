@@ -709,10 +709,34 @@ allocation as necessary.
 
 #### Section 3. Funding Guidelines.
 
-The Student Government currently has no all-encompasing funding guidelines for
-the Student Activities Fund.
+Events cannot be funded by the Student Activities Fund that are in non-compliance with Article 10. 
 
-### Article 10. Student Government Audits.
+### Article 10. Scheduling Guidelines
+
+#### Section 1. Conflicts with Religious Commitments
+
+No events may be scheduled for the entire student body on major religious holidays that would impede a student from participating in their religion's traditions.
+
+For Christian and Jewish holidays, the following are the holidays and the times during which students have obligations. 
+
+
+
+For other religions, the list of Religious Observances in Massachusetts (http://www.doe.mass.edu/resources/holidays.html) should be used.
+
+| Holiday       | Impact                                                                                                      | Time of Year                | 2016               | 2017              | 2018               | 2019                  | 2020               |
+|---------------|-------------------------------------------------------------------------------------------------------------|-----------------------------|--------------------|-------------------|--------------------|-----------------------|--------------------|
+| Ash Wednesday | A couple hours to attend church, frequently at lunch time or the end of a work day.                         | Mid February - Early March  |                    | Mar 1             | Feb 14             | Mar 6                 | Feb 26             |
+| Holy Thursday | Church, generally from 7-9                                                                                  | End of March - Mid April    |                    | Apr 13            | Mar 29             | Apr 18                | Apr 9              |
+| Good Friday   | Many take 12-3pm as a time of remembrance followed by church at 3 or 7                                      | End of March - Mid April    |                    | Apr 14            | Mar 30             | Apr 19                | Apr 10             |
+| Easter        | All Day                                                                                                     | End of March - Mid April    |                    | Apr 16            | Apr 1              | Apr 21                | Apr 12             |
+| Rosh Hashana  | Evening services on night before and two days of services/family observance                                 | September - Early October   | Sundown Oct 2 -4   | Sundown,Sep 20-22 | Sundown Sep 9 - 11 | Sundown Sep 29- Oct 1 | Sundown Sep 18- 20 |
+| Yom Kippur    | Fasting from night before through next evening. All day in services                                         | Mid September - Mid October | Sundown Oct 11 -12 | Sundown Sep 29-30 | Sundown Sep 18-19  | Sundown Oct 8-9       | Sundown Sep 28-29  |
+| Passover      | religious dinners on first two nights, no levened bread or anything with wheat, corn or rice for eight days | End of March - April        | Sundown Apr 22-23  | Sundown Apr 10-11 | Sundown Mar 30-31  | Sundown Apr 19-20     | Sundown Apr 8-9    |
+
+
+
+
+### Article 11. Student Government Audits.
 
 #### Section 1. Meetings.
 
@@ -750,7 +774,7 @@ timeframe, the Honor Board may file a case report about Student Government
 citing the infraction, and an abstract is published to the community after
 investigation and resolution through the Honor Board process.
 
-### Article 11. Election Procedures.
+### Article 12. Election Procedures.
 
 #### Section 1. Eligibility.
 
@@ -1035,7 +1059,7 @@ location which can be accessed by the current members of the Student Government.
 Each elected official must meet with their successor to discuss their respective
 transition document upon leaving office.
 
-### Article 12. Amendment Procedures.
+### Article 13. Amendment Procedures.
 
 #### Section 1. Amending the Constitution.
 
@@ -1109,7 +1133,7 @@ Otherwise, the Governing Document remains unchanged. The Vice President for
 Communications sends an announcement describing the outcome of the meeting to
 the entire Student Body within 24 hours of the close of the meeting.
 
-### Article 13. Transparency.
+### Article 14. Transparency.
 
 #### Section 1. Purpose.
 
